@@ -1,0 +1,660 @@
+
+
+*******************************************************************************
+Fri Apr  7 13:14:29 2017
+
+
+FIT:    data read from "potential_field.txt" using 5:4
+        format = x:z
+        #datapoints = 5172
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.51698e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 27.8698
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1e-30
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 6505.16
+rel. change during last iteration : -6.57244e-10
+
+degrees of freedom    (FIT_NDF)                        : 5169
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.12183
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.25849
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.152528         +/- 0.003172     (2.08%)
+b               = -1.92823         +/- 0.03543      (1.837%)
+c               = 5.62105          +/- 0.09166      (1.631%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b              -0.979  1.000 
+c               0.862 -0.941  1.000 
+
+
+*******************************************************************************
+Fri Apr  7 13:16:14 2017
+
+
+FIT:    data read from "potential_field.txt" using 5:4
+        format = x:z
+        #datapoints = 5172
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+BREAK:          Undefined value during function evaluation
+
+
+
+*******************************************************************************
+Fri Apr  7 13:16:20 2017
+
+
+FIT:    data read from "potential_field.txt" using 5:4
+        format = x:z
+        #datapoints = 5172
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+BREAK:          Undefined value during function evaluation
+
+
+
+*******************************************************************************
+Fri Apr  7 13:17:16 2017
+
+
+FIT:    data read from "potential_field.txt" using 5:4
+        format = x:z
+        #datapoints = 5172
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+BREAK:          Undefined value during function evaluation
+
+
+
+*******************************************************************************
+Fri Apr  7 13:17:36 2017
+
+
+FIT:    data read from "potential_field.txt" using 5:4
+        format = x:z
+        #datapoints = 5172
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.18427e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 33.8293
+
+initial set of free parameter values
+
+a               = 1
+b               = 1e-30
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 10233
+rel. change during last iteration : -3.02754e-06
+
+degrees of freedom    (FIT_NDF)                        : 5170
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.40688
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.9793
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -0.0164624       +/- 0.0008126    (4.936%)
+b               = 0.926613         +/- 0.03888      (4.196%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.864  1.000 
+
+
+*******************************************************************************
+Fri Apr  7 14:00:07 2017
+
+
+FIT:    data read from "electric_potential_field.txt"
+        format = z
+        #datapoints = 5172
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+
+
+*******************************************************************************
+Fri Apr  7 14:00:43 2017
+
+
+FIT:    data read from "electric_potential_field.txt"
+        format = z
+        #datapoints = 5172
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+
+
+*******************************************************************************
+Fri Apr  7 14:00:59 2017
+
+
+FIT:    data read from "electric_potential_field.txt" using 5:4
+        format = x:z
+        #datapoints = 5172
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.56627e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 27.8758
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 6505.16
+rel. change during last iteration : -4.4992e-10
+
+degrees of freedom    (FIT_NDF)                        : 5169
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.12183
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.25849
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.152528         +/- 0.003172     (2.08%)
+b               = -1.92823         +/- 0.03543      (1.837%)
+c               = 5.62105          +/- 0.09166      (1.631%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b              -0.979  1.000 
+c               0.862 -0.941  1.000 
+
+
+*******************************************************************************
+Fri Apr  7 15:25:51 2017
+
+
+FIT:    data read from "electric_potential_field.txt"
+        format = z
+        #datapoints = 7870
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 5.75725e+08       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 199.781
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 164916
+rel. change during last iteration : -2.70336e-07
+
+degrees of freedom    (FIT_NDF)                        : 7868
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 4.57825
+variance of residuals (reduced chisquare) = WSSR/ndf   : 20.9603
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 3.12099e-10      +/- 0.0003712    (1.189e+08%)
+b               = 15               +/- 0.1049       (0.6991%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.871  1.000 
+
+
+*******************************************************************************
+Fri Apr  7 15:27:13 2017
+
+
+FIT:    data read from "electric_potential_field.txt"
+        format = z
+        #datapoints = 7870
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.70605e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.70713
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 164916
+rel. change during last iteration : -7.78447e-07
+
+degrees of freedom    (FIT_NDF)                        : 7868
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 4.57825
+variance of residuals (reduced chisquare) = WSSR/ndf   : 20.9603
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0183193        +/- 10.1         (5.513e+04%)
+b               = 14.9999          +/- 0.08192      (0.5461%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.777  1.000 
+
+
+*******************************************************************************
+Fri Apr  7 15:28:50 2017
+
+
+FIT:    data read from "electric_potential_field.txt"
+        format = z
+	y range restricted to [0.00000 : *]
+        #datapoints = 7870
+        residuals are weighted equally (unit weight)
+
+function used for fitting: (x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 329832            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+BREAK:          Singular matrix in Givens()
+
+
+
+*******************************************************************************
+Fri Apr  7 15:28:54 2017
+
+
+FIT:    data read from "electric_potential_field.txt"
+        format = z
+	y range restricted to [0.00000 : *]
+        #datapoints = 7870
+        residuals are weighted equally (unit weight)
+
+function used for fitting: (x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 329832            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0
+
+initial set of free parameter values
+
+a               = 1
+b               = 1.001
+BREAK:          Singular matrix in Givens()
+
+
+
+*******************************************************************************
+Fri Apr  7 15:30:15 2017
+
+
+FIT:    data read from "electric_potential_field.txt"
+        format = z
+        #datapoints = 7870
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.70605e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.70713
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 164916
+rel. change during last iteration : -7.78447e-07
+
+degrees of freedom    (FIT_NDF)                        : 7868
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 4.57825
+variance of residuals (reduced chisquare) = WSSR/ndf   : 20.9603
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0183193        +/- 10.1         (5.513e+04%)
+b               = 14.9999          +/- 0.08192      (0.5461%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.777  1.000 
+
+
+*******************************************************************************
+Fri Apr  7 15:31:24 2017
+
+
+FIT:    data read from "electric_potential_field.txt"
+        format = z
+	y range restricted to [0.00000 : *]
+        #datapoints = 7870
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.70605e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.70713
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 164916
+rel. change during last iteration : -7.78447e-07
+
+degrees of freedom    (FIT_NDF)                        : 7868
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 4.57825
+variance of residuals (reduced chisquare) = WSSR/ndf   : 20.9603
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0183193        +/- 10.1         (5.513e+04%)
+b               = 14.9999          +/- 0.08192      (0.5461%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.777  1.000 
+
+
+*******************************************************************************
+Fri Apr  7 15:32:32 2017
+
+
+FIT:    data read from "electric_potential_field.txt"
+        format = z
+	y range restricted to [0.00000 : *]
+        #datapoints = 7870
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.93418e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.00811121
+
+initial set of free parameter values
+
+a               = 1
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 867737
+rel. change during last iteration : -1.98376e-08
+
+degrees of freedom    (FIT_NDF)                        : 7869
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 10.5011
+variance of residuals (reduced chisquare) = WSSR/ndf   : 110.273
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 1436.15          +/- 14.59        (1.016%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Apr  7 15:35:00 2017
+
+
+FIT:    data read from "electric_potential_field.txt" using 5:4
+        format = x:z
+        #datapoints = 7870
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+BREAK:          Undefined value during function evaluation
+
+
+
+*******************************************************************************
+Fri Apr  7 15:37:04 2017
+
+
+FIT:    data read from "electric_potential_field.txt" using 5:4
+        format = x:z
+	y range restricted to [0.00000 : *]
+        #datapoints = 7870
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+BREAK:          Undefined value during function evaluation
+
+
+
+*******************************************************************************
+Fri Apr  7 15:46:12 2017
+
+
+FIT:    data read from "electric_field.txt" using 8:7
+        format = x:z
+	y range restricted to [0.00000 : *]
+        #datapoints = 7112
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 9.43907e+14       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 171738
+
+initial set of free parameter values
+
+a               = 1.5
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 21293.4
+rel. change during last iteration : -1.95042e-09
+
+degrees of freedom    (FIT_NDF)                        : 7110
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.73057
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.99486
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 4.90529e-06      +/- 9.211e-08    (1.878%)
+b               = 5.33887          +/- 0.02237      (0.419%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.398  1.000 
+
+
+*******************************************************************************
+Fri Apr  7 15:48:51 2017
+
+
+FIT:    data read from "electric_field.txt" using 8:7
+        format = x:z
+	y range restricted to [0.00000 : *]
+        #datapoints = 7112
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.67807e+15       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 171738
+
+initial set of free parameter values
+
+a               = 2
+b               = 2
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 21293.4
+rel. change during last iteration : -1.15499e-09
+
+degrees of freedom    (FIT_NDF)                        : 7110
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.73057
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.99486
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 4.90529e-06      +/- 9.211e-08    (1.878%)
+b               = 5.33887          +/- 0.02237      (0.419%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.398  1.000 
+
+
+*******************************************************************************
+Fri Apr  7 16:01:02 2017
+
+
+FIT:    data read from "magnetic_potential_field.txt" using 5:4
+        format = x:z
+        #datapoints = 7870
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+BREAK:          Undefined value during function evaluation
+
+
+
+*******************************************************************************
+Fri Apr  7 16:01:08 2017
+
+
+FIT:    data read from "magnetic_potential_field.txt" using 5:4
+        format = x:z
+        #datapoints = 7870
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+BREAK:          Undefined value during function evaluation
+
